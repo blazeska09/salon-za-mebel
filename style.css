@@ -1,6 +1,12 @@
 body {
     font-family: "" Arial, Helvetica, sans-serif;
-    background-color: rgb(177, 150, 162);
+    background-image: url('assets/slika-za-sajtot.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    backgr0und-attachment: fixed;
+
+
     margin: 10px;
     padding: 0;
     color: rgb(123, 31, 74);
