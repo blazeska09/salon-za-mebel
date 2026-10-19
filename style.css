@@ -3,18 +3,16 @@ body {
     background-color: rgb(177, 150, 162);
     margin: 10px;
     padding: 0;
-    color: rgb(220, 203, 211);
+    color: rgb(123, 31, 74);
 }
 
-.logo img{
-width: 250px;
-height: auto;
-display: block
-margin: 250 auto;
+#slika-logo{
+width: 150px;
+height:  auto;
+display: block;
+margin: 0 auto !important;
 }
 
-.logo{
-text align: nav-left: ;;
-width: 300px;
-margin :0
- }
+#logo-sodrzina {
+    text-align: center !important;
+}
