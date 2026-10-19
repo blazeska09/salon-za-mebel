@@ -1,9 +1,15 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "" Arial, Helvetica, sans-serif;
     background-color: rgb(177, 150, 162);
     margin: 10px;
     padding: 0;
     color: rgb(123, 31, 74);
+}
+main{
+    text-align: center;
+    margin: 30px auto;
+    padding: 20px;
+
 }
 
 #slika-logo{
@@ -15,4 +21,30 @@ margin: 0 auto !important;
 
 #logo-sodrzina {
     text-align: center !important;
+}
+#logo-sodrzina h1 {
+    font-size: 78px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#podnaslov  {
+    text-align: center;
+}
+nav a {
+    display: inline-block; 
+    width: 200px;
+    margin: 10px auto; !important
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #ede9ec;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: #7e2250;
+    color: white;
 }
