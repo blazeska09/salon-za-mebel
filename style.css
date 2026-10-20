@@ -35,22 +35,33 @@ margin: 0 auto !important;
 }
 #podnaslov  {
     text-align: center;
+
+}
+
+nav {
+    text-align: center;
+    margin: 20px auto; !importantnter;
+
+
 }
 nav a {
-    display: inline-block; 
-    width: 200px;
-    margin: 10px auto; !important
-    color: white;
+    display: inline-block; !important;
+    width: 220px;
+    color: rgba(123, 31, 74); !important;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 16px; !important;
     font-weight: bold;
-    padding: 10px;
-    border-radius: 4px;
-    background-color: #ede9ec;
+    padding: 12px;20px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 04px 6px rgba(o,0,0,0,1);
+    font-famili: Arial, Helvetica, sans-serif  !important
+    margin: 8px auto !important;
     text-align: center;
 }
 
 nav a:hover{
     background-color: #7e2250;
-    color: white;
+    color:white !important;
+
 }
